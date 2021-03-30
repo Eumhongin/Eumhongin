@@ -3,11 +3,9 @@
 
 
 ## 🔭 I’m currently working on 
----
 ### Studio Heynuts (2019.10.02 ~ )
 
 ## 🌱 I’m currently learning
----
 1. Typescript
 2. CI/CD
 3. UX/UI
