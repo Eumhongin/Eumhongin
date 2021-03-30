@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Hongin
+
+
+
+## 🔭 I’m currently working on 
+---
+### Studio Heynuts (2019.10.02 ~ )
+
+## 🌱 I’m currently learning
+---
+1. Typescript
+2. CI/CD
+3. UX/UI
+4. Firebase FireStore
+5. 
 
 <!--
 **Eumhongin/Eumhongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
