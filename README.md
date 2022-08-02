@@ -3,5 +3,6 @@
 
 
 ## 🔭 I’m currently working on 
-### Plang (2021.06 ~ )
+### SummitPlay (2021.09 ~ )
+### Plang (2021.06 ~ 2021.09)
 ### Studio Heynuts (2019.10 ~ 2021.04)
